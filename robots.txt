@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /pedido
+Disallow: /conta
+Disallow: /checkout
+
+Sitemap: https://davideluca.github.io/sitemap.xml
